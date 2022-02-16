@@ -1,5 +1,5 @@
 <p align="center">
- <b>Description:</b>A simple text-based take on the classic game of Battle Ship!!<br>
+ <b>Description:</b> A simple text-based take on the classic game of Battle Ship!!<br>
  <br>
  <b>Play In Browser: </b><a href="https://chadlinthicum.github.io/GAME_Rudimentary-Battleship/"> Here</a><br>
  <br>
